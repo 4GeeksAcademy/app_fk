@@ -1,3 +1,4 @@
+
 ipyleaflet>=0.14.0
 ipywidgets>=7.7.1
 matplotlib>=3.7.0
@@ -10,6 +11,8 @@ python-dotenv>=0.20.0
 requests>=2.27.1
 scikit-learn
 seaborn>=0.12.2
-sqlalchemy>=2.0.38
+sqlalchemy>=1.4.37
 sympy>=1.10.1
 xgboost
+flask>=3.0.2
+gunicorn>=21.2.0
