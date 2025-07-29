@@ -1,13 +1,10 @@
 from flask import Flask, request, render_template
-from pickle import load
+import pickle
 
 app = Flask(__name__)
-model = load(open("../models/random_forest_regressor_default_42.sav", "rb"))
-class_dict = {
-    "0": "Alumno no admitido",
-    "1": "Alumno Admitido",
-    
-}
+with open('../models/random_forest_regressor_default_42.sav', 'rb') as file:
+    model = pickle.load(file)
+
 
 @app.route("/", methods = ["GET", "POST"])
 def index():
@@ -21,7 +18,7 @@ def index():
         
         data = [[val1, val2, val3, val4]]
         prediction = str(model.predict(data)[0])
-        pred_class = class_dict[prediction]
+        #pred_class = class_dict[prediction]
     else:
-        pred_class = None
+        prediction = None
     
