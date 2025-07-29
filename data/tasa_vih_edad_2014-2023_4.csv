@@ -1,0 +1,301 @@
+id_sexo;sexo;id_grupo_etario;grupo_etario;anio;tasa_vih
+3;Ambos sexos;10;total_grupo;2014;15,6
+3;Ambos sexos;10;total_grupo;2015;15,6
+3;Ambos sexos;10;total_grupo;2016;14,6
+3;Ambos sexos;10;total_grupo;2017;11,8
+3;Ambos sexos;10;total_grupo;2018;13,6
+3;Ambos sexos;10;total_grupo;2019;14
+3;Ambos sexos;10;total_grupo;2020;8,8
+3;Ambos sexos;10;total_grupo;2021;12,6
+3;Ambos sexos;10;total_grupo;2022;13,3
+3;Ambos sexos;10;total_grupo;2023;14,1
+3;Ambos sexos;1;0 - 9;2014;1,4
+3;Ambos sexos;1;0 - 9;2015;0,8
+3;Ambos sexos;1;0 - 9;2016;0,9
+3;Ambos sexos;1;0 - 9;2017;0,5
+3;Ambos sexos;1;0 - 9;2018;0,3
+3;Ambos sexos;1;0 - 9;2019;0,5
+3;Ambos sexos;1;0 - 9;2020;0,2
+3;Ambos sexos;1;0 - 9;2021;0,5
+3;Ambos sexos;1;0 - 9;2022;0,3
+3;Ambos sexos;1;0 - 9;2023;0,4
+3;Ambos sexos;2;10 - 14;2014;0,6
+3;Ambos sexos;2;10 - 14;2015;0,6
+3;Ambos sexos;2;10 - 14;2016;0,3
+3;Ambos sexos;2;10 - 14;2017;0,2
+3;Ambos sexos;2;10 - 14;2018;0,3
+3;Ambos sexos;2;10 - 14;2019;0,2
+3;Ambos sexos;2;10 - 14;2020;0,1
+3;Ambos sexos;2;10 - 14;2021;0,4
+3;Ambos sexos;2;10 - 14;2022;0,1
+3;Ambos sexos;2;10 - 14;2023;0,2
+3;Ambos sexos;3;15 - 19;2014;7,5
+3;Ambos sexos;3;15 - 19;2015;8,9
+3;Ambos sexos;3;15 - 19;2016;7,7
+3;Ambos sexos;3;15 - 19;2017;6,8
+3;Ambos sexos;3;15 - 19;2018;7,3
+3;Ambos sexos;3;15 - 19;2019;7,1
+3;Ambos sexos;3;15 - 19;2020;3,3
+3;Ambos sexos;3;15 - 19;2021;5,9
+3;Ambos sexos;3;15 - 19;2022;4,4
+3;Ambos sexos;3;15 - 19;2023;5,4
+3;Ambos sexos;4;20 - 24;2014;29,2
+3;Ambos sexos;4;20 - 24;2015;30,2
+3;Ambos sexos;4;20 - 24;2016;30,3
+3;Ambos sexos;4;20 - 24;2017;22,7
+3;Ambos sexos;4;20 - 24;2018;27,3
+3;Ambos sexos;4;20 - 24;2019;27,3
+3;Ambos sexos;4;20 - 24;2020;15,5
+3;Ambos sexos;4;20 - 24;2021;21,5
+3;Ambos sexos;4;20 - 24;2022;22,9
+3;Ambos sexos;4;20 - 24;2023;21,9
+3;Ambos sexos;5;25 - 34;2014;36,8
+3;Ambos sexos;5;25 - 34;2015;36,8
+3;Ambos sexos;5;25 - 34;2016;33,8
+3;Ambos sexos;5;25 - 34;2017;27,9
+3;Ambos sexos;5;25 - 34;2018;31,6
+3;Ambos sexos;5;25 - 34;2019;32,7
+3;Ambos sexos;5;25 - 34;2020;21,5
+3;Ambos sexos;5;25 - 34;2021;29,8
+3;Ambos sexos;5;25 - 34;2022;31
+3;Ambos sexos;5;25 - 34;2023;32,3
+3;Ambos sexos;6;35 - 44;2014;27,7
+3;Ambos sexos;6;35 - 44;2015;27,1
+3;Ambos sexos;6;35 - 44;2016;25,8
+3;Ambos sexos;6;35 - 44;2017;20,4
+3;Ambos sexos;6;35 - 44;2018;23,1
+3;Ambos sexos;6;35 - 44;2019;24,5
+3;Ambos sexos;6;35 - 44;2020;15,3
+3;Ambos sexos;6;35 - 44;2021;22,1
+3;Ambos sexos;6;35 - 44;2022;23,9
+3;Ambos sexos;6;35 - 44;2023;25
+3;Ambos sexos;7;45 - 54;2014;19,5
+3;Ambos sexos;7;45 - 54;2015;19,4
+3;Ambos sexos;7;45 - 54;2016;17,5
+3;Ambos sexos;7;45 - 54;2017;15,3
+3;Ambos sexos;7;45 - 54;2018;17,5
+3;Ambos sexos;7;45 - 54;2019;18,3
+3;Ambos sexos;7;45 - 54;2020;11,9
+3;Ambos sexos;7;45 - 54;2021;16,5
+3;Ambos sexos;7;45 - 54;2022;18,7
+3;Ambos sexos;7;45 - 54;2023;20,5
+3;Ambos sexos;8;55 - 64;2014;9,3
+3;Ambos sexos;8;55 - 64;2015;10
+3;Ambos sexos;8;55 - 64;2016;8,5
+3;Ambos sexos;8;55 - 64;2017;7,1
+3;Ambos sexos;8;55 - 64;2018;8,6
+3;Ambos sexos;8;55 - 64;2019;9
+3;Ambos sexos;8;55 - 64;2020;5,6
+3;Ambos sexos;8;55 - 64;2021;9,2
+3;Ambos sexos;8;55 - 64;2022;10,5
+3;Ambos sexos;8;55 - 64;2023;11,8
+3;Ambos sexos;9;65 o m s;2014;1,9
+3;Ambos sexos;9;65 o m s;2015;1,5
+3;Ambos sexos;9;65 o m s;2016;1,6
+3;Ambos sexos;9;65 o m s;2017;1,3
+3;Ambos sexos;9;65 o m s;2018;1,4
+3;Ambos sexos;9;65 o m s;2019;1,6
+3;Ambos sexos;9;65 o m s;2020;1,2
+3;Ambos sexos;9;65 o m s;2021;1,7
+3;Ambos sexos;9;65 o m s;2022;1,7
+3;Ambos sexos;9;65 o m s;2023;2,6
+2;Mujeres;10;total_grupo;2014;9,3
+2;Mujeres;10;total_grupo;2015;8,8
+2;Mujeres;10;total_grupo;2016;8,4
+2;Mujeres;10;total_grupo;2017;6,6
+2;Mujeres;10;total_grupo;2018;7,8
+2;Mujeres;10;total_grupo;2019;8,2
+2;Mujeres;10;total_grupo;2020;5,1
+2;Mujeres;10;total_grupo;2021;7,3
+2;Mujeres;10;total_grupo;2022;7,9
+2;Mujeres;10;total_grupo;2023;8,3
+2;Mujeres;1;0 - 9;2014;1,6
+2;Mujeres;1;0 - 9;2015;0,9
+2;Mujeres;1;0 - 9;2016;1,1
+2;Mujeres;1;0 - 9;2017;0,7
+2;Mujeres;1;0 - 9;2018;0,4
+2;Mujeres;1;0 - 9;2019;0,6
+2;Mujeres;1;0 - 9;2020;0,2
+2;Mujeres;1;0 - 9;2021;0,6
+2;Mujeres;1;0 - 9;2022;0,3
+2;Mujeres;1;0 - 9;2023;0,5
+2;Mujeres;2;10 - 14;2014;0,8
+2;Mujeres;2;10 - 14;2015;0,9
+2;Mujeres;2;10 - 14;2016;0,4
+2;Mujeres;2;10 - 14;2017;0,3
+2;Mujeres;2;10 - 14;2018;0,4
+2;Mujeres;2;10 - 14;2019;0,2
+2;Mujeres;2;10 - 14;2020;0,2
+2;Mujeres;2;10 - 14;2021;0,6
+2;Mujeres;2;10 - 14;2022;0,2
+2;Mujeres;2;10 - 14;2023;0,2
+2;Mujeres;3;15 - 19;2014;7,1
+2;Mujeres;3;15 - 19;2015;8,7
+2;Mujeres;3;15 - 19;2016;7
+2;Mujeres;3;15 - 19;2017;5,2
+2;Mujeres;3;15 - 19;2018;5,6
+2;Mujeres;3;15 - 19;2019;5,5
+2;Mujeres;3;15 - 19;2020;2,2
+2;Mujeres;3;15 - 19;2021;3,9
+2;Mujeres;3;15 - 19;2022;3,6
+2;Mujeres;3;15 - 19;2023;3,6
+2;Mujeres;4;20 - 24;2014;17,9
+2;Mujeres;4;20 - 24;2015;15,3
+2;Mujeres;4;20 - 24;2016;16,9
+2;Mujeres;4;20 - 24;2017;12,9
+2;Mujeres;4;20 - 24;2018;14,2
+2;Mujeres;4;20 - 24;2019;14,9
+2;Mujeres;4;20 - 24;2020;8,2
+2;Mujeres;4;20 - 24;2021;11,8
+2;Mujeres;4;20 - 24;2022;12,2
+2;Mujeres;4;20 - 24;2023;12,8
+2;Mujeres;5;25 - 34;2014;19,4
+2;Mujeres;5;25 - 34;2015;18,7
+2;Mujeres;5;25 - 34;2016;17,1
+2;Mujeres;5;25 - 34;2017;13,1
+2;Mujeres;5;25 - 34;2018;16,9
+2;Mujeres;5;25 - 34;2019;16,1
+2;Mujeres;5;25 - 34;2020;10,9
+2;Mujeres;5;25 - 34;2021;15,2
+2;Mujeres;5;25 - 34;2022;15,8
+2;Mujeres;5;25 - 34;2023;16,8
+2;Mujeres;6;35 - 44;2014;16,5
+2;Mujeres;6;35 - 44;2015;15,6
+2;Mujeres;6;35 - 44;2016;15,8
+2;Mujeres;6;35 - 44;2017;12,8
+2;Mujeres;6;35 - 44;2018;14,1
+2;Mujeres;6;35 - 44;2019;16,1
+2;Mujeres;6;35 - 44;2020;9,9
+2;Mujeres;6;35 - 44;2021;14,1
+2;Mujeres;6;35 - 44;2022;16
+2;Mujeres;6;35 - 44;2023;15,4
+2;Mujeres;7;45 - 54;2014;12,7
+2;Mujeres;7;45 - 54;2015;12,1
+2;Mujeres;7;45 - 54;2016;10,9
+2;Mujeres;7;45 - 54;2017;9,3
+2;Mujeres;7;45 - 54;2018;11,3
+2;Mujeres;7;45 - 54;2019;13
+2;Mujeres;7;45 - 54;2020;7,8
+2;Mujeres;7;45 - 54;2021;11,2
+2;Mujeres;7;45 - 54;2022;13,6
+2;Mujeres;7;45 - 54;2023;14,3
+2;Mujeres;8;55 - 64;2014;5,4
+2;Mujeres;8;55 - 64;2015;4,8
+2;Mujeres;8;55 - 64;2016;4,7
+2;Mujeres;8;55 - 64;2017;3,6
+2;Mujeres;8;55 - 64;2018;5,2
+2;Mujeres;8;55 - 64;2019;5,1
+2;Mujeres;8;55 - 64;2020;3,5
+2;Mujeres;8;55 - 64;2021;5
+2;Mujeres;8;55 - 64;2022;6,1
+2;Mujeres;8;55 - 64;2023;7,5
+2;Mujeres;9;65 o m s;2014;1
+2;Mujeres;9;65 o m s;2015;0,7
+2;Mujeres;9;65 o m s;2016;0,6
+2;Mujeres;9;65 o m s;2017;0,4
+2;Mujeres;9;65 o m s;2018;0,5
+2;Mujeres;9;65 o m s;2019;0,8
+2;Mujeres;9;65 o m s;2020;0,6
+2;Mujeres;9;65 o m s;2021;0,7
+2;Mujeres;9;65 o m s;2022;0,8
+2;Mujeres;9;65 o m s;2023;1,3
+1;Varones;10;total_grupo;2014;22,1
+1;Varones;10;total_grupo;2015;22,8
+1;Varones;10;total_grupo;2016;21,1
+1;Varones;10;total_grupo;2017;17,3
+1;Varones;10;total_grupo;2018;19,5
+1;Varones;10;total_grupo;2019;20
+1;Varones;10;total_grupo;2020;12,7
+1;Varones;10;total_grupo;2021;18,1
+1;Varones;10;total_grupo;2022;18,9
+1;Varones;10;total_grupo;2023;20,1
+1;Varones;1;0 - 9;2014;1,2
+1;Varones;1;0 - 9;2015;0,7
+1;Varones;1;0 - 9;2016;0,7
+1;Varones;1;0 - 9;2017;0,3
+1;Varones;1;0 - 9;2018;0,2
+1;Varones;1;0 - 9;2019;0,4
+1;Varones;1;0 - 9;2020;0,2
+1;Varones;1;0 - 9;2021;0,4
+1;Varones;1;0 - 9;2022;0,3
+1;Varones;1;0 - 9;2023;0,4
+1;Varones;2;10 - 14;2014;0,4
+1;Varones;2;10 - 14;2015;0,3
+1;Varones;2;10 - 14;2016;0,3
+1;Varones;2;10 - 14;2017;0,1
+1;Varones;2;10 - 14;2018;0,2
+1;Varones;2;10 - 14;2019;0,2
+1;Varones;2;10 - 14;2020;0,1
+1;Varones;2;10 - 14;2021;0,2
+1;Varones;2;10 - 14;2022;0,1
+1;Varones;2;10 - 14;2023;0,2
+1;Varones;3;15 - 19;2014;7,8
+1;Varones;3;15 - 19;2015;9
+1;Varones;3;15 - 19;2016;8,4
+1;Varones;3;15 - 19;2017;8,5
+1;Varones;3;15 - 19;2018;8,9
+1;Varones;3;15 - 19;2019;8,5
+1;Varones;3;15 - 19;2020;4,4
+1;Varones;3;15 - 19;2021;7,8
+1;Varones;3;15 - 19;2022;5,3
+1;Varones;3;15 - 19;2023;7,1
+1;Varones;4;20 - 24;2014;40,4
+1;Varones;4;20 - 24;2015;44,8
+1;Varones;4;20 - 24;2016;43,5
+1;Varones;4;20 - 24;2017;32,3
+1;Varones;4;20 - 24;2018;39,9
+1;Varones;4;20 - 24;2019;39,2
+1;Varones;4;20 - 24;2020;22,6
+1;Varones;4;20 - 24;2021;31
+1;Varones;4;20 - 24;2022;33,1
+1;Varones;4;20 - 24;2023;30,5
+1;Varones;5;25 - 34;2014;54,4
+1;Varones;5;25 - 34;2015;55,1
+1;Varones;5;25 - 34;2016;50,6
+1;Varones;5;25 - 34;2017;42,6
+1;Varones;5;25 - 34;2018;46,2
+1;Varones;5;25 - 34;2019;49,2
+1;Varones;5;25 - 34;2020;32
+1;Varones;5;25 - 34;2021;44,2
+1;Varones;5;25 - 34;2022;46
+1;Varones;5;25 - 34;2023;47,6
+1;Varones;6;35 - 44;2014;39,2
+1;Varones;6;35 - 44;2015;38,9
+1;Varones;6;35 - 44;2016;36
+1;Varones;6;35 - 44;2017;28,1
+1;Varones;6;35 - 44;2018;32,4
+1;Varones;6;35 - 44;2019;32,9
+1;Varones;6;35 - 44;2020;20,8
+1;Varones;6;35 - 44;2021;30,1
+1;Varones;6;35 - 44;2022;32
+1;Varones;6;35 - 44;2023;34,7
+1;Varones;7;45 - 54;2014;26,6
+1;Varones;7;45 - 54;2015;27,1
+1;Varones;7;45 - 54;2016;24,6
+1;Varones;7;45 - 54;2017;21,6
+1;Varones;7;45 - 54;2018;24,1
+1;Varones;7;45 - 54;2019;23,8
+1;Varones;7;45 - 54;2020;16,2
+1;Varones;7;45 - 54;2021;22,1
+1;Varones;7;45 - 54;2022;24
+1;Varones;7;45 - 54;2023;26,8
+1;Varones;8;55 - 64;2014;13,6
+1;Varones;8;55 - 64;2015;15,6
+1;Varones;8;55 - 64;2016;12,7
+1;Varones;8;55 - 64;2017;11
+1;Varones;8;55 - 64;2018;12,4
+1;Varones;8;55 - 64;2019;13,2
+1;Varones;8;55 - 64;2020;7,8
+1;Varones;8;55 - 64;2021;13,8
+1;Varones;8;55 - 64;2022;15,4
+1;Varones;8;55 - 64;2023;16,4
+1;Varones;9;65 o m s;2014;3,1
+1;Varones;9;65 o m s;2015;2,7
+1;Varones;9;65 o m s;2016;3,1
+1;Varones;9;65 o m s;2017;2,6
+1;Varones;9;65 o m s;2018;2,5
+1;Varones;9;65 o m s;2019;2,7
+1;Varones;9;65 o m s;2020;2
+1;Varones;9;65 o m s;2021;3,1
+1;Varones;9;65 o m s;2022;3
+1;Varones;9;65 o m s;2023;4,5
