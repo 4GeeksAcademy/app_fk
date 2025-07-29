@@ -1,9 +1,24 @@
 from flask import Flask, request, render_template
-import pickle
+import os
+from joblib import load
 
 app = Flask(__name__)
-with open('../models/random_forest_regressor_default_42.sav', 'rb') as file:
-    model = pickle.load(file)
+try:
+    model_path = os.path.join('..', 'models', 'random_forest_regressor_default_42.sav')
+    
+    if os.path.exists(model_path):
+        with open(model_path, 'rb') as file:
+            model = load(file)
+        print("✅ Modelo cargado correctamente!")
+        print(f"Tipo de modelo: {type(model)}")
+        
+        # Ejemplo de uso:
+        # predictions = model.predict(X_new_data)
+    else:
+        raise FileNotFoundError(f"No se encontró el archivo en {model_path}")
+        
+except Exception as e:
+    print(f"❌ Error al cargar el modelo: {str(e)}")
 
 
 @app.route("/", methods = ["GET", "POST"])
