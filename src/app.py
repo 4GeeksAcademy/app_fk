@@ -6,7 +6,7 @@ from joblib import load
 from joblib import load
 app = Flask(__name__)
 # Cargar el modelo desde el archivo
-model = load("./models/random_forest_regressor_default_42.sav")
+model = load("../models/random_forest_regressor_default_42.sav")
 print("✅ Modelo cargado exitosamente!")
         
         # Ejemplo de uso:
