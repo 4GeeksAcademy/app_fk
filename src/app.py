@@ -3,11 +3,11 @@ import os
 from joblib import load
 
 
-from joblib import load
+from flask import Flask, request, render_template
+from pickle import load
+
 app = Flask(__name__)
-# Cargar el modelo desde el archivo
-model = load("../models/random_forest_regressor_default_42.sav")
-print("✅ Modelo cargado exitosamente!")
+model = load(open("../models/random_forest_regressor_default_42.sav", "rb"))
         
         # Ejemplo de uso:
         # predictions = model.predict(X_new_data)
